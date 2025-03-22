@@ -1,0 +1,35 @@
+# Директория с результатами
+output/
+
+# Python кэш
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.env
+.venv
+
+# Логи
+*.log
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Временные файлы
+tmp/
+temp/
+
+# Файлы дистрибутива
+dist/
+build/
+*.egg-info/ 
