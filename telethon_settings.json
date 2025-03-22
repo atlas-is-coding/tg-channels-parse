@@ -1,0 +1,9 @@
+{
+    "api_id": 0,
+    "api_hash": "",
+    "session_name": "tg_session",
+    "check_comments": true,
+    "skip_channels_without_comments": true,
+    "connection_retries": 5,
+    "request_delay": 1
+} 
